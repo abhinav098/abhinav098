@@ -6,4 +6,4 @@ I'm an Innovative full-stack software developer and a self-starter who loves to 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav098&layout=compact&theme=gruvbox&langs_count=8" />
 
-*(Credit: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))*
+###### *(Credit: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))*
