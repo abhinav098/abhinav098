@@ -13,7 +13,8 @@
 - 🔧 &nbsp; Git | Markdown
 
 <br/>
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinav098&show_icons=true&theme=radical)
+
+[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinav098&show_icons=true&count_private=true&theme=radical)](https://github.com/abhinav098/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
