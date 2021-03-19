@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinav098&show_icons=true&count_private=true&theme=radical)](https://github.com/abhinav098/github-readme-stats)
+[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinav098&show_icons=true&count_private=true&theme=radical)](https://abhinav098.github.io/)
 
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
