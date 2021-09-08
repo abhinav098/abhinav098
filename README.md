@@ -16,8 +16,10 @@
 
 [![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinav098&show_icons=true&count_private=true&theme=radical)](https://abhinav098.github.io/)
 
+<br />
+
 <h3> 🤝🏻 Connect with Me </h3>
-<p align="center">
+
 <a href="https://www.linkedin.com/in/abhinavgarg098/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-abhinavgarg098-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:agarg10@stevens.edu"><img alt="Email" src="https://img.shields.io/badge/Email-agarg10@stevens.edu-blue?style=flat-square&logo=gmail"></a>
-</p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhinav098.abhinav098)
